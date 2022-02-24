@@ -1,4 +1,4 @@
-# NOTICE.txt
+# throwables-es.i18n
 #
 # Copyright (C) 2012-2022 Rafael Corchuelo.
 #
@@ -8,7 +8,5 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-- Rafael Corchuelo (corchu@us.es)
-- Diego Crespo Quinta (diecrequi@alum.us.es)
-- Juan López Quirós (jualopqui1@alum.us.es)
-- Alejandro Fraile Rodríguez (alefrarod@alum.us.es)
+java.lang.NullPointerException			= Null pointer exception
+java.lang.Error							= General failure
